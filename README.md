@@ -20,12 +20,45 @@ Just type your topic → get a beautifully structured course outline instantly.
 🎯 Features You'll Love
 ✅ AI-Powered Learning Plans – Say goodbye to messy notes and random tutorials.
 🎨 Clean, Modern UI – Built with TypeScript + React for a smooth experience.
-⚡ Instant Results – No waiting around, your course outline is ready in seconds.
-📱 Mobile-Friendly – Learn anywhere, anytime.
-💾 Export & Save – Keep your generated courses for future reference.
+🎯 Features You'll Love
+✅ AI-Powered Learning Plans – Say goodbye to messy notes and random tutorials.
+🎨 Clean, Modern UI – Built with TypeScript + React for a smooth experience.
 
-🎬 Live Demo
-🌐 Click here to experience it
+🛠 Tech Magic Inside
 
-(Warning: You might get addicted to generating new courses)
+Frontend: React + TypeScript
 
+Backend AI: OpenAI API (or any LLM)
+
+Hosting: Vercel
+
+Styling: TailwindCSS (for sleek design)
+
+🧩 How to Run Locally
+# 1️⃣ Clone the project
+git clone https://github.com/Pranathi-96/Ai-Course-Generator.git
+
+# 2️⃣ Enter the folder
+cd Ai-Course-Generator
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Run the dev server
+npm run dev
+
+📝 How to Use
+Enter the topic you want to learn.
+
+Watch as AI crafts a full course outline.
+
+Start learning with a clear roadmap.
+
+🤝 Contribute
+Want to improve it? Fork it, make changes, and submit a PR.
+Your ideas are always welcome 💡.
+
+📜 License
+Licensed under the MIT License – use it, modify it, share it.
+
+🔥 Pro Tip: Try entering fun topics like "Become a Space Pirate" or "Master Time Travel" — the AI will surprise you.
