@@ -34,6 +34,11 @@ Hosting: Vercel
 
 Styling: TailwindCSS (for sleek design)
 
+📸 Sneak Peek
+
+<img width="1156" height="753" alt="image" src="https://github.com/user-attachments/assets/b4c9046e-9790-43fe-8fad-e7fe84df946d" />
+
+
 🧩 How to Run Locally
 # 1️⃣ Clone the project
 git clone https://github.com/Pranathi-96/Ai-Course-Generator.git
